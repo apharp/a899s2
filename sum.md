@@ -56,6 +56,19 @@ Expanding to approximately 13,000 endpoint agents enables intentional deployment
 
 The result is an operationally meaningful deployment that balances coverage, cost, and long-term scalability, providing sufficient density to detect localized issues, identify trends, and measure the performance of business-critical services across the enterprise.
 
+At approximately 13,000 endpoints, you can intentionally build coverage instead of randomly deploying agents.
+
+That means nearly every technology issue affecting a meaningful population has a high probability of being observed by at least several monitored users.
+Every office
+Every business unit
+Remote workers
+Executives
+Critical client-facing teams
+Traveling users
+
+
+That means nearly every technology issue affecting a meaningful population has a high probability of being observed by at least several monitored users.
+
 ## Financial Impact
 
 * Current annual spend: Approximately $1.0M
