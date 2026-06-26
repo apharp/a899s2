@@ -46,6 +46,16 @@ Identify regional ISP issues, office-specific connectivity problems, remote work
 
 Leverage objective end-user performance data to validate service quality, support SLA discussions, and hold cloud providers accountable for the digital experience they deliver.
 
+### Why 13,000 Endpoint Licenses?
+
+The proposed endpoint count is not based on a statistical sampling exercise. It is based on achieving operational visibility across the firm's diverse technology landscape.
+
+To effectively monitor employee digital experience, endpoint agents must represent variations in business unit, office location, remote work, ISP, network path, and application usage. A smaller deployment would provide visibility into portions of the organization but would leave significant gaps across locations, user populations, and business functions.
+
+Expanding to approximately 13,000 endpoint agents enables intentional deployment across Tax, Audit, Advisory, and Business Process Group employees; major offices and remote workers; executive populations; and critical client-facing teams. This level of coverage provides representative visibility into nearly half of the workforce while avoiding the diminishing returns and additional cost associated with attempting to monitor every employee.
+
+The result is an operationally meaningful deployment that balances coverage, cost, and long-term scalability, providing sufficient density to detect localized issues, identify trends, and measure the performance of business-critical services across the enterprise.
+
 ## Financial Impact
 
 * Current annual spend: Approximately $1.0M
