@@ -46,6 +46,18 @@ Identify regional ISP issues, office-specific connectivity problems, remote work
 
 Leverage objective end-user performance data to validate service quality, support SLA discussions, and hold cloud providers accountable for the digital experience they deliver.
 
+### Supporting a Mobile and Hybrid Workforce
+
+Our workforce is increasingly mobile, with partners, executives, and employees routinely working from client sites, hotels, airports, home offices, and other remote locations.
+
+These users frequently depend on Microsoft Teams and other cloud-based collaboration platforms to conduct business. When performance issues occur outside the corporate network, our ability to diagnose the problem is extremely limited.
+
+Without endpoint telemetry, support teams often rely on educated guesses to determine whether the issue resides with the employee's device, local Wi-Fi, ISP, VPN, Microsoft 365, or the firm's infrastructure.
+
+Expanded Digital Experience Monitoring provides objective data from the employee's device, allowing us to quickly determine where the problem exists and dramatically reduce the time required to restore service.
+
+This capability is particularly valuable for partners, executives, and client-facing personnel, where communication issues can directly affect client engagements, firm productivity, and the overall perception of our technology services.
+
 ### Why 13,000 Endpoint Licenses?
 
 The proposed endpoint count is not based on a statistical sampling exercise. It is based on achieving operational visibility across the firm's diverse technology landscape.
